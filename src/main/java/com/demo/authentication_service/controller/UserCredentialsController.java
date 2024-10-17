@@ -49,3 +49,4 @@ public class UserCredentialsController {
 		return null;
 	}
 }
+//this is for jenkins automation
